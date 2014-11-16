@@ -15,6 +15,9 @@ A visual way to see the moods of american citizens in real time.
 5-8 sentences about the application, what it'll do, and why it should exist
 
 This app is cool because it will allow people to enter their zip code and check thorugh twitter the mood of the people that live around you.
+This is a cool idea because, people who are interested in moving to a new place can also see the general mental health of the community they want to move to.
+
+This is basically where I got the idea from: http://users.humboldt.edu/mstephens/hate/hate_map.html#
 
 2-4 sentences about who would use this application
 
