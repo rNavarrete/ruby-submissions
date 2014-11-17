@@ -1,3 +1,20 @@
+Plan to have:
+
+- oAuth authentication
+- A user friendly, front end design to lets the user enter answers as part of a block of text such as in     (http://www.howmuchareyoupayingyourbroker.com/)
+- Start off with three question fields.
+- A score generator
+
+Nice to have:
+
+- Google map API that maps out the nearest resources that a user has available to them to help them improve their social mobility score. 
+
+Uh oh:
+
+- If things go bad I can hard code certain for scores for certain user inputs.
+- I can create my own mini subset of data if I have trouble pulling in or gathering larger sets of data.
+- I can have a google map that has hardcoded markers, maybe I can limit the application to a specific city in order to make it    easier to look for locations/resources.
+
 ### [Project Title]
 
 1.) Chance of escaping poverty
