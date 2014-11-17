@@ -1,5 +1,46 @@
 ### [Project Title]
 
+1.) Chance of escaping poverty
+
+If this project gets selected, put **SELECTED** here
+
+I want to try to make an app where a user goes in and answers a few questions and the site would tell them what their chances of escaping poverty are. After you get your percentage chance of escaping poverty it gives you recomendations on what you can do (mentors, tutors, community outreach etc...)
+
+1 sentence that explains the value proposition of the application. How would
+you explain it to a potential business partner, team member, or investor?
+
+It is an application that is meant to be a bit startling to see how low a person's real chances to escape poverty, and it forces you to visualize a number and mork towards improving that number, maybe gamify your way out of poverty.
+
+5-8 sentences about the application, what it'll do, and why it should exist
+
+People work hard to improve their credit score, why not create a type of social mobility score. The app will generate a score for you and offer you ways of improving your score
+
+2-4 sentences about who would use this application
+
+This application would be used mostly by at risk youth, and people who want to improve their chances of moving up to a different class in society.
+
+### Integrations
+
+* What OAuth provider makes sense for this audience?
+Twitter
+Facebook
+
+* What Data.gov data or API will you use?
+Census data on income
+Census data on living conditions
+http://www.equality-of-opportunity.org/ (data from here)
+
+
+* Any other integrations?
+
+
+
+
+
+
+
+### [Project Title]
+
 1.) Happy and Depressed Map
 
 If this project gets selected, put **SELECTED** here
